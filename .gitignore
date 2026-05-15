@@ -21,6 +21,7 @@ a.out
 .idea/
 *.swp
 *.swo
+*.swn
 
 # --- Archivos de Evaluación / Testeo ---
 # Si creas tus propios tests o usas los de la comunidad (ej: libft-war-machine)
